@@ -4,7 +4,9 @@ $RABOTA is the utility token of the ProRobot ecosystem, used for transaction val
 
 ![PROROBOT](rabotaToken.png)
 
-## [Create Solana Token](https://solana.com/developers/guides/getstarted/how-to-create-a-token)
+[Token History](https://prorobot.ai/en/articles/prorobot-the-robot-friendly-blockchain-pioneering-the-future-of-robotics)
+
+## Quick Instruction Set
     mkdir rabota-token
     cd rabota-token
     solana config get
@@ -32,6 +34,7 @@ $RABOTA is the utility token of the ProRobot ecosystem, used for transaction val
     solana transfer 94FnEpoDuyV84dCxmVu28uYLnQHT8oN3C59oed7XWzr2 0.1 --allow-unfunded-recipient
 
 # References
+- [Create Solana Token](https://solana.com/developers/guides/getstarted/how-to-create-a-token)
  - [web3.storage](https://console.web3.storage)
 
 ## Testnet Mint Overview
