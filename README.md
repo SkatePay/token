@@ -27,8 +27,14 @@ $RABOTA is the utility token of the ProRobot ecosystem, used for transaction val
 
     spl-token mint rabpv2nxTLxdVv2SqzoevxXmSD2zaAmZGE79htseeeq 100
 
-    spl-token transfer rabpv2nxTLxdVv2SqzoevxXmSD2zaAmZGE79htseeeq 10 (recipient wallet address) --fund-recipient
+    spl-token transfer rabpv2nxTLxdVv2SqzoevxXmSD2zaAmZGE79htseeeq 10 (recipient wallet address) --fund-recipient --allow-unfunded-recipient
 
+    solana transfer 94FnEpoDuyV84dCxmVu28uYLnQHT8oN3C59oed7XWzr2 0.1 --allow-unfunded-recipient
 
-## Mint Addresses
-[.testnet](https://solana.fm/address/rabpv2nxTLxdVv2SqzoevxXmSD2zaAmZGE79htseeeq/tokens?cluster=testnet-solana)
+# References
+[web3.storage](https://console.web3.storage)
+
+## Testnet Mint Overview
+[solana.fm](https://solana.fm/address/rabpv2nxTLxdVv2SqzoevxXmSD2zaAmZGE79htseeeq/tokens?cluster=testnet-solana)
+
+[explorer.solana](https://explorer.solana.com/address/rabpv2nxTLxdVv2SqzoevxXmSD2zaAmZGE79htseeeq?cluster=testnet)
