@@ -1,4 +1,9 @@
-# rabota-token
+
+# $RABOTA-token
+$RABOTA is the utility token of the ProRobot ecosystem, used for transaction validation and token holder governance.
+
+![PROROBOT](rabotaToken.png)
+
 ## [Create Solana Token](https://solana.com/developers/guides/getstarted/how-to-create-a-token)
     mkdir rabota-token
     cd rabota-token
@@ -26,4 +31,4 @@
 
 
 ## Mint Addresses
-[testnet](https://solana.fm/address/rabpv2nxTLxdVv2SqzoevxXmSD2zaAmZGE79htseeeq/tokens?cluster=testnet-solana)
+[.testnet](https://solana.fm/address/rabpv2nxTLxdVv2SqzoevxXmSD2zaAmZGE79htseeeq/tokens?cluster=testnet-solana)
